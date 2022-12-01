@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**SandipKumar01/SandipKumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sandip kumar! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a full stack data analyst and financial analyst.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-kumar-455464235/)
+
+## 🛠 Skills
+1. Excel 
+2. SQL 
+3. Python for data science
+4. R 
+5. Statistics
+6. Power bi
+7. Finance
+
+
+## Summary of my journey
+👩‍💻 Started as commerce student.
+
+🧠 B.com graduate, First class.
+
+👯‍♀️ Enrolled in PGDFM, Full stack data analyst and data scientist course, etc.
+
+🤔 Completed Full stack data analyst course from UDEMY.
+
+🤔 Completed Securities market foundation from NISM.
+
+💬 ...
+
+📫 ...
+
+
